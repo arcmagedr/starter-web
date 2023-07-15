@@ -10,6 +10,8 @@ Me no likey
 
 ## Deployment
 
+More changes from branch newfeature
+
 ### 1. Starting Deployment
 	How to start the deployment?
 	First step is to upload your files.
